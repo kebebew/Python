@@ -1,2 +1,2 @@
 # Python
-This is python program for calculation
+This is python program for list
